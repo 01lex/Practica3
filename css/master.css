@@ -9,3 +9,12 @@ h1{
   font-size: 150%;
   font-style: normal;
 }
+li{
+  list-style: none;
+  float: left;
+  padding-left: 10em;
+}
+li:hover{
+  color: blue;
+  cursor: pointer;
+}
